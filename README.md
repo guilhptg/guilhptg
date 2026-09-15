@@ -55,8 +55,8 @@ Workflow moderno de engenharia de software focado em produtividade:
 
 ---
 
-## 🎮 Além do Código
-Quando não estou desenhando arquitetura de software, estruturando dados ou estudando, você provavelmente me encontrará explorando mecânicas, builds e subindo o nível das minhas profissões nas expansões de *World of Warcraft*.
+## 📚 Além do Código
+Quando não estou desenhando arquitetura de software, estruturando dados ou estudando.
 
 ---
 
