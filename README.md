@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme Portugal! 👋
 
-**Desenvolvedor de Software Especialista em Backend & Data Science | Brasília, DF 🇧🇷**
+**Desenvolvedor de Software focado em Backend & Data Science | Brasília, DF 🇧🇷**
 
 Transformando regras de negócio complexas em software escalável e eficiente. Atualmente graduando em Análise e Desenvolvimento de Sistemas (UDF), com forte foco na construção de sistemas de gestão de alto nível, APIs robustas e pipelines de dados estruturados.
 
