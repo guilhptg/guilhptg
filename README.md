@@ -1,10 +1,20 @@
-# Olá, eu sou o Guilherme Portugal! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1B2A4A&height=200&section=header&text=Guilherme%20Portugal&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Back-end%20%7C%20Engenharia%20de%20Dados%20%7C%20Software&descAlignY=58&descSize=18&descColor=8FA3C9" width="100%"/>
 
-**Desenvolvedor de Software focado em Backend & Data Science | Brasília, DF 🇧🇷**
+<a href="https://linkedin.com/in/guilhptg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4C6EF5&center=true&vCenter=true&width=600&height=40&lines=Transformando+regras+de+neg%C3%B3cio+em+software;Python+%7C+Django+%7C+FastAPI+%7C+Flask;Pipelines+de+dados+e+dashboards;Sempre+debugando+algo+%C3%A0s+2h+da+manh%C3%A3" alt="Typing SVG" />
+</a>
 
-Transformando regras de negócio complexas em software escalável e eficiente. Atualmente graduando em Análise e Desenvolvimento de Sistemas (UDF), com forte foco na construção de sistemas de gestão de alto nível, APIs robustas e pipelines de dados estruturados.
+</div>
 
----
+<br>
+
+## Sobre mim
+
+Sou o Guilherme — 28 anos, de Brasília/DF, cursando Análise e Desenvolvimento de Sistemas na UDF. Trabalho na linha entre backend e dados: construo APIs e sistemas de gestão que precisam aguentar regra de negócio de verdade, e do outro lado monto pipelines e dashboards pra transformar aquele monte de CSV desorganizado em algo que alguém realmente usa pra decidir coisa.
+
+Gosto de projetos onde o "sistema de gestão" não é genérico — controle de acesso, PDV, faturamento, biblioteca acadêmica, cada um com suas próprias regras chatas de resolver. E quando não estou modelando domínio, provavelmente estou tentando fazer um dashboard carregar mais rápido.
+
+<br>
 
 ## 🛠️ Tecnologias e Ferramentas
 
