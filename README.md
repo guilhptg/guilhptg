@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1B2A4A&height=200&section=header&text=Guilherme%20Portugal&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Back-end%20%7C%20Engenharia%20de%20Dados%20%7C%20Software&descAlignY=58&descSize=18&descColor=8FA3C9" width="100%"/>
+<div align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1B2A4A&height=200&section=header&text=Guilherme%20Portugal&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Back-end%20%7C%20Engenharia%20de%20Dados%20%7C%20Software&descAlignY=58&descSize=18&descColor=8FA3C9" width="100%"/>
 
 <a href="https://linkedin.com/in/guilhptg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4C6EF5&center=true&vCenter=true&width=600&height=40&lines=Transformando+regras+de+neg%C3%B3cio+em+software;Python+%7C+Django+%7C+FastAPI+%7C+Flask;Pipelines+de+dados+e+dashboards;Sempre+debugando+algo+%C3%A0s+2h+da+manh%C3%A3" alt="Typing SVG" />
