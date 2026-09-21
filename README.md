@@ -40,6 +40,9 @@ Transformando regras de negócio complexas em software escalável e eficiente. A
   - *Stack:* Django, PostgreSQL, Alpine.js, Tailwind CSS.
 - **[CondMax](link-do-repositorio)**: Plataforma arquitetada para administração de condomínios com forte foco em modelagem de domínio e integrações para faturamento automatizado.
   - *Stack:* FastAPI, Odoo.
+ 
+- **[Gestão Biblioteca](https://github.com/guilhptg/gestao_biblioteca)**: Software para gestão de biblioteca acadêmica, com foco em administração de empréstimos e usuários (alunos e professores).
+  - *Stack:* Django, HTMX, SQLite, UV.
 
 ### 📈 Engenharia de Dados & Analytics
 - **[Olist E-commerce ETL](link-do-repositorio)**: Pipeline de dados analisando o funil de vendas do e-commerce Olist. Construído para extrair, transformar (arquivos CSV multifonte para formato otimizado Parquet) e carregar dados visando alimentar dashboards interativos.
